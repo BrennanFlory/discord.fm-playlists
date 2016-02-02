@@ -1,1 +1,12 @@
 # Add your songs on each line in this file. Do not remove this notice.
+# Add your songs like the line below:
+# <Song URL> # <Artist> - <Title>
+
+https://www.youtube.com/watch?v=nEt1bKGlCpM # Virtual Riot - Idols (EDM Mashup)
+https://www.youtube.com/watch?v=wNwY8JCBm6o # Galantis - Gold Dust
+https://www.youtube.com/watch?v=eFQRoVE-tWU # Monstercat 025 - Threshold [1 Hour of Electronic Music]
+https://www.youtube.com/watch?v=FsHhh8gEY10 # Stonebank - All Night
+https://www.youtube.com/watch?v=89AorUIMeig # Exige - Proximity Launchpad Mashup 2015
+https://www.youtube.com/watch?v=EeObu0jfSxE # Hellberg ft. Cozi Zuehlsdorff - The Girl
+https://www.youtube.com/watch?v=nedAfpJV53w # Maroon 5 - Animals (Gryffin Remix)
+https://www.youtube.com/watch?v=Xq-knHXSKYY # Avicii - For A Better Day
