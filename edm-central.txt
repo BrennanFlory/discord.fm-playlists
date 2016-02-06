@@ -3,13 +3,13 @@
 # Line 1: # <Artist> - <Title>
 # Line 2: <Song URL> 
 
-# Virtual Riot - Idols (EDM Mashup)
+# Virtual Riot - Idols
 https://www.youtube.com/watch?v=nEt1bKGlCpM
 
 # Galantis - Gold Dust
 https://www.youtube.com/watch?v=wNwY8JCBm6o
 
-# Monstercat 025 - Threshold [1 Hour of Electronic Music]
+# Monstercat 025 - Threshold
 https://www.youtube.com/watch?v=eFQRoVE-tWU
 
 # Stonebank - All Night
@@ -26,3 +26,24 @@ https://www.youtube.com/watch?v=nedAfpJV53w
 
 # Avicii - For A Better Day
 https://www.youtube.com/watch?v=Xq-knHXSKYY
+
+# Galantis - Gold Dust Mixtape
+https://www.youtube.com/watch?v=o1o92o5WmyQ
+
+# Stephen Walking - Porkchop Express
+https://www.youtube.com/watch?v=JiLbhrbhi_E
+
+# Pegboard Nerds - Emoji VIP
+https://www.youtube.com/watch?v=ovrGzbsQZqc
+
+# Meg & Dia - Monster (DotEXE Remix)
+https://www.youtube.com/watch?v=f7RKOP87tt4
+
+# Skrillex - Bangarang feat. Sirah
+https://www.youtube.com/watch?v=YJVmu6yttiw
+
+# Skrillex - First Of The Year (Equinox)
+https://www.youtube.com/watch?v=2cXDgFwE13g
+
+# Skrillex - Scary Monsters And Nice Sprites
+https://www.youtube.com/watch?v=WSeNSzJ2-Jw
