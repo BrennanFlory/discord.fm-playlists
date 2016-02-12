@@ -2,10 +2,6 @@
 
 Playlists that play by default when no songs are queued in the Discord.FM radio server. [Join server](https://discord.gg/0nlCIL7OsctU7T4w).
 
-## Bot playlists
-
-- [EDM Central](https://github.com/deansheather/discord.fm-playlists/blob/master/edm-central.txt)
-
 ## How to contribute and add songs
 
 1. Fork this repository.
